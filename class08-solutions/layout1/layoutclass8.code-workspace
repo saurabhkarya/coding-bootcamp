@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../saurabh.com.au"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "coding-bootcamp"
+  }
+}

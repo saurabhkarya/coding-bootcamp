@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+header,
+footer {
+  height: 200px;
+  border: 10px solid black;
+  clear: both;
+}
+
+.row2 {
+  height: 250px;
+  border: 10px solid black;
+  width: 100%;
+  clear: both;
+}
+
+#block1 {
+  height: 300px;
+  border: 10px solid black;
+  width: 40%;
+  float: left;
+}
+
+#block2 {
+  height: 300px;
+  border: 10px solid black;
+  width: 60%;
+  float: left;
+}

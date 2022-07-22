@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+header,
+footer {
+  height: 200px;
+  border: 10px solid black;
+  clear: both;
+}
+
+.row2 {
+  height: 200px;
+  border: 10px solid black;
+  width: 33.3333%;
+  float: left;
+}
+
+.row3 {
+  height: 200px;
+  border: 10px solid black;
+  width: 50%;
+  float: left;
+}

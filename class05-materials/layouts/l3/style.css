@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+header,
+footer {
+  height: 200px;
+  border: 10px solid black;
+  clear: both;
+}
+
+#block0 {
+  height: 450px;
+  border: 10px solid black;
+  width: 10%;
+  float: left;
+}
+
+#block1 {
+  height: 450px;
+  border: 10px solid black;
+  width: 50%;
+  float: left;
+}
+
+#block2 {
+  height: 450px;
+  border: 10px solid black;
+  width: 20%;
+  float: left;
+}
+
+#block3 {
+  height: 450px;
+  border: 10px solid black;
+  width: 20%;
+  float: left;
+}
